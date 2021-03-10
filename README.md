@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sahil.jamwal78625@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XO07ab114iUnECduUdRpfz7zI-6Kr8IC)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1x7dlMilku4WNv2YgMUEvnVI8t3nU-iSC)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
