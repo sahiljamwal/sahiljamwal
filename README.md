@@ -5,10 +5,10 @@ JavaScript Developer | Node.js Developer | Cloud Enthusiast | Learning Enthusias
 ---------------------------------------------------------------------------------
 
 * 🌍  I'm based in Bengaluru, India
-* 🖥️  See my portfolio at [here](http://sahil-jamwal-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [here](https://sahil-jamwal-portfolio.netlify.app/)
 * ✉️  You can contact me at [sahil.jamwal78625@gmail.com](mailto:sahil.jamwal78625@gmail.com)
-* 🚀  I'm currently working on [Graph QL Learning](http://github.com/sahiljamwal/graphql-learning)
-* 🧠  I'm learning AWS Serverless Services, Docker and Graph QL
+* 🚀  I'm currently working on [Game hub React Project](https://github.com/sahiljamwal/game-hub)
+* 🧠  I'm learning AWS Serverless Services, Docker and React
 * 🤝  I'm open to collaborating on Node.js, Javascript, Typescript and React.js projects
 
 ### Skills
